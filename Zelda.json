@@ -1,0 +1,6 @@
+{
+  "response": "There is a chance of 5/15 that the next pizza will be pepperoni.",
+  "latex": "$\\\\frac{5}{15}$",
+  "title": "Pizza (Probability)",
+  "solution": "Divide 5 by 15 because there are 5 chances in 15 tries."
+}
