@@ -6,7 +6,23 @@ Zelda is a natural language mathematical expression parser powered by OpenAI's G
 
 #### Description:
 
-##### ✨ Features
+Hey everyone, I'm thrilled to share with you my latest creation called ZELDA! As a recent college graduate and a hobbyist in the world of software development, I wanted to make math more accessible and fun for everyone, especially those who struggle with word problems and mathematical expressions. That's why I've designed ZELDA, a powerful software application that utilizes the cutting-edge technology of GPT-3 to parse and understand natural language math expressions.
+
+So, what does ZELDA do? Well, imagine being able to type in a math problem using simple, everyday language, and instantly getting a mathematical expression in Latex format as the output. With ZELDA, you don't have to worry about translating confusing word problems into equations anymore. It takes your input and magically transforms it into a concise mathematical expression that you can easily understand and work with.
+
+But ZELDA goes beyond just solving math problems. It's built with the belief that a safe and supportive learning environment is crucial for students to thrive. That's why I've incorporated features that promote conceptual learning and critical thinking. By understanding the underlying concepts of math, users can grasp new ideas and solve problems more effectively.
+
+With ZELDA, learning math becomes an interactive and engaging experience. You can explore various mathematical concepts, evaluate your own understanding, and even challenge yourself with complex problems. The software provides a positive and encouraging atmosphere where users can take risks, explore new ideas, and grow their mathematical abilities.
+
+I've poured my heart and soul into creating ZELDA because I believe that understanding math shouldn't be a struggle. It should be accessible, enjoyable, and empowering for everyone. By leveraging the power of GPT-3, ZELDA aims to bridge the gap between natural language and mathematical expressions, making math more approachable and exciting.
+
+So, whether you're a student looking to improve your math skills or an adult who wants to refresh your knowledge, ZELDA is here to assist you on your mathematical journey. Give it a try, and let me know what you think! I'm constantly working on enhancing the accuracy and functionality of ZELDA, and your feedback will be invaluable in shaping its future.
+
+Remember, math is not just about numbers and formulas. It's about understanding, problem-solving, and embracing the beauty of logic. Let ZELDA be your guide in unlocking the wonders of mathematics with simplicity and joy.
+
+Disclaimer: ZELDA is a passion project created by me, and while it strives to provide accurate and reliable results, it is always advisable to double-check the generated expressions for mathematical correctness.
+
+#### ✨ Features
 
 Zelda can:
 
