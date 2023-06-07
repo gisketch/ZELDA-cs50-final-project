@@ -2,7 +2,7 @@
 
 Zelda is a natural language mathematical expression parser powered by OpenAI's GPT-3 language model. The application is built in JavaScript and ReactJS.
 
-#### Video Demo: <WIP>
+#### Video Demo: https://youtu.be/WUQD0_GDUHA
 
 #### Description:
 
